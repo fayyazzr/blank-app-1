@@ -1,7 +1,5 @@
 import streamlit as st
 
-st.set_page_config(page_title="Profil Prabowo Subianto")
-
 st.title("Profil Prabowo Subianto")
 
 
